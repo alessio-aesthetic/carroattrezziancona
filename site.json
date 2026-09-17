@@ -1,0 +1,18 @@
+{
+  "city": "Ancona",
+  "domain": "carroattrezziancona.it",
+  "brand": "CONERO SOCCORSO",
+  "phone": null,
+  "address": null,
+  "email": "assistenza@carroattrezziancona.it",
+  "nearby": [
+    "Falconara Marittima",
+    "Osimo",
+    "Camerano",
+    "Agugliano",
+    "Chiaravalle",
+    "Numana"
+  ],
+  "contactStatus": "awaiting_verified_phone_and_address",
+  "theme": "route"
+}
