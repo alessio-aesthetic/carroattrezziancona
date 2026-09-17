@@ -1,7 +1,7 @@
 {
   "city": "Ancona",
   "domain": "carroattrezziancona.it",
-  "brand": "CONERO SOCCORSO",
+  "brand": "Conero Soccorso",
   "phone": null,
   "address": null,
   "email": "assistenza@carroattrezziancona.it",
@@ -14,5 +14,12 @@
     "Numana"
   ],
   "contactStatus": "awaiting_verified_phone_and_address",
-  "theme": "route"
+  "theme": "route",
+  "brandIdentity": {
+    "version": 2,
+    "concept": "Profilo del promontorio in un nastro direzionale aperto, marchio orizzontale arioso.",
+    "primary": "/assets/brand/logo-primary.svg",
+    "reverse": "/assets/brand/logo-reverse.svg",
+    "symbol": "/assets/brand/symbol.svg"
+  }
 }
